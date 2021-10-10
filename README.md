@@ -38,7 +38,7 @@ pip install ptan
 
 From github:
 ```bash
-pip install pip install git+https://github.com/3DAlgoLab/ptan.git 
+pip install git+https://github.com/3DAlgoLab/ptan.git 
 ```
 
 ## Requirements
